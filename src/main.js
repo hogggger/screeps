@@ -6,6 +6,8 @@
  * @Description: screeps 入口文件
  */
 //游戏入口函数
+// 测试
+//ceshi 2s
 export const loop = function () {
     console.log('hello world')
 }
